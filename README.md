@@ -79,7 +79,7 @@ A snapshot of feature areas signed off in the latest release:
 ## Contact
 
 **Nusrat Rita** — QA / SDET @ LazyCoders LLC
-- Email: nmkhan@lazycoders.co
+- Email: nusratrita00@gmail.com
 - GitHub: [@nusratrita](https://github.com/nusratrita)
 
 ---
